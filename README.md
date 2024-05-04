@@ -12,8 +12,10 @@ This is a simple project that showcases my ability to perform linear regression.
 <li><code>reg.ipynb</code> This file contains the analysis</li>
 <li><code>Boston.csv</code>: This is the datases from kaggle: https://www.kaggle.com/datasets/sakshisatre/the-boston-housing-dataset</li>
 <li><code>The Boston Housing Dataset.txt</code>: This file contains information about the dataset</li>
+</ul>
 
 <h2>Results</h2>
+(https://github.com/hlavacM7/Boston-housing-regression/assets/128999269/add6528e-5522-430b-8719-fe3093401bc6)
 
 
 
