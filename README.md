@@ -15,7 +15,8 @@ This is a simple project that showcases my ability to perform linear regression.
 </ul>
 
 <h2>Results</h2>
-(https://github.com/hlavacM7/Boston-housing-regression/assets/128999269/add6528e-5522-430b-8719-fe3093401bc6)
+![Snímek obrazovky 2024-05-04 193334](https://github.com/hlavacM7/Boston-housing-regression/assets/128999269/add6528e-5522-430b-8719-fe3093401bc6)
+
 
 
 
